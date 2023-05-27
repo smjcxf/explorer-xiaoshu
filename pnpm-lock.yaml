@@ -94,8 +94,8 @@ devDependencies:
     specifier: 2.0.5
     version: 2.0.5
   fs-extra:
-    specifier: 9.1.0
-    version: 9.1.0
+    specifier: 11.1.1
+    version: 11.1.1
   husky:
     specifier: 8.0.3
     version: 8.0.3
@@ -3953,16 +3953,6 @@ packages:
       graceful-fs: 4.2.10
       jsonfile: 6.1.0
       universalify: 1.0.0
-    dev: true
-
-  /fs-extra@9.1.0:
-    resolution: {integrity: sha512-hcg3ZmepS30/7BSFqRvoo3DOMQu7IjqxO5nCDt+zM9XWjb33Wg7ziNT+Qvqbuc3+gWpzO02JubVyk2G4Zvo1OQ==}
-    engines: {node: '>=10'}
-    dependencies:
-      at-least-node: 1.0.0
-      graceful-fs: 4.2.10
-      jsonfile: 6.1.0
-      universalify: 2.0.0
     dev: true
 
   /fs.realpath@1.0.0:
